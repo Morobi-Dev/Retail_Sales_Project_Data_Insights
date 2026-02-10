@@ -1,16 +1,17 @@
 # Business KPI Dashboard
 
-A data analytics project focused on tracking key business performance indicators using dashboards and reports.
+This project focuses on building a simple business KPI dashboard using real-world business metrics.
 
 ## Objectives
-- Track revenue, growth, and performance metrics
-- Provide insights for business decision-making
+- Track key performance indicators (KPIs)
+- Practice data analysis and reporting
+- Build a portfolio-ready project
 
-## Tools Used
-- Excel / Power BI
-- SQL
-- GitHub
+## Tools (planned)
+- Excel / CSV
+- Python (later)
+- Power BI or Tableau (optional)
 
-## Status
-In progress
+Status
+- In Progress
 
