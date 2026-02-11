@@ -1,17 +1,33 @@
-# Business KPI Dashboard
+# Mini Retail Sales Analysis
 
-This project focuses on building a simple business KPI dashboard using real-world business metrics.
+This project analyzes retail sales data using Microsoft Excel to generate business insights. The objective was to evaluate product performance, regional sales trends, and customer purchasing behavior
 
 ## Objectives
-- Track key performance indicators (KPIs)
-- Practice data analysis and reporting
-- Build a portfolio-ready project
+-Identify top-performing products
+-Analyze revenue by region
+-Evaluate repeat customer activity
+-Provide business recommendation
 
-## Tools (planned)
-- Excel / CSV
-- Python (later)
-- Power BI or Tableau (optional)
+## Tools Used
+-Microsoft Excel (Pivot Tables, Charts, Aggregations)
+-Microsoft Word (Business Report)
 
-Status
-- In Progress
+## Dataset
+-The dataset includes:
+-OrderID
+-Date
+-Product
+-Region
+-CustomerID
+-Quantity
+-Price
+-Total Revenue
+
+Business Recommendations
+-Increase stock of top-selling products.
+-Offer loyalty discounts to repeat customers.
+-Run promotions in underperforming regions.
+-Monitor product performance monthly.
+
+
 
