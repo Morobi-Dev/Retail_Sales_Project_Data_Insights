@@ -24,6 +24,7 @@ This project analyzes retail sales data using Microsoft Excel to generate busine
 -Total Revenue
 
 Business Recommendations
+
 -Increase stock of top-selling products.
 -Offer loyalty discounts to repeat customers.
 -Run promotions in underperforming regions.
